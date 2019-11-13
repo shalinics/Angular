@@ -1,0 +1,11 @@
+<div id="container">
+
+    <div id="image" style="float:left;">
+        <img src="tree.png"  align="left"/>
+    </div>
+
+    <div id="texts" style="float:left;"> 
+        A very long text(about 300 words) 
+    </div>
+
+</div>
